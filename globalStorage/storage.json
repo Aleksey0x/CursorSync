@@ -1,0 +1,65 @@
+{
+    "telemetry.macMachineId": "517eb15c3b5ca087036ba485e452fc608bb0f9e2d74a6545fc45423e90908aa4",
+    "telemetry.machineId": "41874160007b26b7a216ddea29bde3c4765c5b36708ac0c7aba9f7839f8c8d27",
+    "telemetry.sqmId": "{E64B1A71-3038-4626-BE91-9A2FF18B352C}",
+    "telemetry.devDeviceId": "95ec2e6e-d8b4-4ebf-bd91-264efa4bc60b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/atarax/Desktop/vite"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/atarax/Desktop/vite": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#222222",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f7f1ff",
+            "background": "#222222",
+            "editorBackground": "#222222",
+            "titleBarBackground": "#191919",
+            "titleBarBorder": "#131313",
+            "activityBarBackground": "#131313",
+            "activityBarBorder": "#131313",
+            "sideBarBackground": "#191919",
+            "sideBarBorder": "#131313",
+            "statusBarBackground": "#191919",
+            "statusBarBorder": "#131313",
+            "statusBarNoFolderBackground": "#191919"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 319,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/atarax/Desktop/vite",
+            "backupPath": "C:\\Users\\atarax\\AppData\\Roaming\\Cursor\\Backups\\654e2ee44151813902a6747902f25ab0",
+            "uiState": {
+                "mode": 0,
+                "x": 448,
+                "y": 156,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+	"window.commandCenter": true,
+	"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+	"workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+	"editor.insertSpaces": false,
+	"editor.fontSize": 16,
+	"editor.wordWrap": "on",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.minimap.enabled": true,
+	// включаем автосохранение или форматирование при сохранении:
+	"files.autoSave": "onFocusChange", // рекомендовано
+	"editor.formatOnSave": true, // автоформатирование при сохранении
+	"editor.formatOnSaveMode": "file", // форматировать весь файл
+	"editor.formatOnPaste": true, // форматировать при вставке
+	"editor.formatOnType": false, // опционально
+	// Настройки Prettier
+	"prettier.requireConfig": true,
+	"prettier.useEditorConfig": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	// Настройки форматирования для разных типов файлов
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+		"editor.formatOnSave": true
+	},
+	"[typescript]": {
+		"editor.formatOnSave": true
+	},
+	"[json]": {
+		"editor.formatOnSave": true
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features",
+		"editor.formatOnSave": true
+	},
+	"[html]": {
+		"editor.formatOnSave": true
+	},
+	"[css]": {
+		"editor.formatOnSave": true
+	},
+	"[scss]": {
+		"editor.formatOnSave": true
+	},
+	"explorer.confirmDelete": false
+}

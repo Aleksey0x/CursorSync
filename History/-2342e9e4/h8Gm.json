@@ -1,0 +1,10 @@
+{
+    "window.commandCenter": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "editor.insertSpaces": false,
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.minimap.enabled": true
+}

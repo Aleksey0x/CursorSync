@@ -1,0 +1,18 @@
+// Base styles
+@use 'base/_reset';
+
+// Utility styles
+@use 'utils/_variables' as vars;
+@use 'utils/_mixins' as mix;
+
+// Components
+@use 'components/_button';
+
+// Fonts
+@use '../fonts/fonts.css';
+
+
+body {
+	background-color: rgb(216, 0, 169);
+	color: aliceblue;
+}

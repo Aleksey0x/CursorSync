@@ -1,6 +1,6 @@
 @echo off
+chcp 65001 >nul
 setlocal
-
 :: Конфиги и гит
 set CONFIG_DIR=C:\Users\atarax\AppData\Roaming\Cursor\User
 set SYNC_DIR=D:\CursorSync
